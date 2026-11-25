@@ -1,6 +1,0 @@
-pandas
-numpy
-requests
-pyarrow
-pytest
-ruff
